@@ -10,8 +10,8 @@ first_name: Yudong
 last_name: Li
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,7 +52,7 @@ interests:
   - High Performance Computing
 
 education:
-  - area: MS Machine Learning
+  - area: MS Computer Science
     institution: Georgia Institute of Technology
     date_start: 2023-09-01
     date_end: 2025-08-31
